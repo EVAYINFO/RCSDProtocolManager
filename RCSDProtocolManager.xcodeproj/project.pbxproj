@@ -54,12 +54,20 @@
 		180159DB1F3832940019BC73 /* RCSDProtocolManager */ = {
 			isa = PBXGroup;
 			children = (
+				186621611F3836380043E537 /* RCSDProtocolManager */,
 				180159DC1F3832940019BC73 /* AppDelegate.swift */,
 				180159DE1F3832940019BC73 /* ViewController.swift */,
 				180159E01F3832940019BC73 /* Main.storyboard */,
 				180159E31F3832940019BC73 /* Assets.xcassets */,
 				180159E51F3832940019BC73 /* LaunchScreen.storyboard */,
 				180159E81F3832940019BC73 /* Info.plist */,
+			);
+			path = RCSDProtocolManager;
+			sourceTree = "<group>";
+		};
+		186621611F3836380043E537 /* RCSDProtocolManager */ = {
+			isa = PBXGroup;
+			children = (
 			);
 			path = RCSDProtocolManager;
 			sourceTree = "<group>";
@@ -299,6 +307,7 @@
 				180159ED1F3832940019BC73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
