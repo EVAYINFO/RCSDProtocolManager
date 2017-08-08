@@ -32,7 +32,7 @@ s.platform     = :ios, "8.0"
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/EVAYINFO/RCSDProtocolManager.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/EVAYINFO/RCSDProtocolManager.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
