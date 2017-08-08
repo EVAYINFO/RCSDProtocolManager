@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+
+class RCSDProtocolManager {
+    
+    // test func
+    func openTest() -> Int {
+        return 2
+    }
+    
+}
